@@ -1,0 +1,19 @@
+///Created by Ibram Haq///
+///*Prototype*///
+
+
+About This Dataset:
+
+This CSV file contains the environment data used for the SRARCS (Simple Reflex Agent Room Cleaning System) project.
+Each number represents the state of a cell in a 5×5 room grid:
+
+1 = Dirty cell (dirt present)
+
+0 = Clean cell (no dirt)
+
+Cleaned (%) = Shows how much of the room has been cleaned in each iteration
+
+The dataset records multiple stages of the cleaning process - starting from a dirty environment and ending when the room becomes fully clean (100%).
+It is a self-created dataset made specifically for demonstration and learning purposes in my Artificial Intelligence Lab project.
+
+///END///
